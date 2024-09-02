@@ -27,13 +27,13 @@ const About = () => {
             <img
               src="/me.jpg"
               alt="avatar"
-              className="bg-white p-2 sm:p-4 rotate-[25deg] h-[240px] sm:h-[340px] md:h-[350px] lg:h-[450px]"
+              className="bg-white p-2 sm:p-4 rotate-[3deg] h-[240px] sm:h-[340px] md:h-[350px] lg:h-[450px]"
             />
           </div>
           <div className="flex justify-center flex-col tracking-[1px] text-xl gap-5">
             <p>
-              My name is Zeeshan, but my followers call me Zeeshu. I will
-              graduate in Software Engineering from SMIU around 2024. I work as
+              My name is Hasrat Khan. I will
+              graduate in Software Engineering from NHU around 2024. I work as
               a web developer and freelancer. My hobbies include watching
               movies, series, playing video games, and occasionally cooking.
             </p>
